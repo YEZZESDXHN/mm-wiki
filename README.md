@@ -55,6 +55,7 @@ MM-Wiki 是一个轻量级的企业知识分享与团队协同软件，可用于
     # Ctrl + C 停止 install 程序, 启动 MM-Wiki 系统
     $ cd ..
     $ ./mm-wiki --conf conf/mm-wiki.conf
+    #保持后台运行：nohup ./mm-wiki --conf conf/mm-wiki.conf &
     # 浏览器访问你监听的 ip 和端口
     # 开始 MM-Wiki 的使用之旅吧！
     ```
